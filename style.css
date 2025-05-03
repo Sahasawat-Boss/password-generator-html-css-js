@@ -45,23 +45,23 @@ body {
     padding-bottom: 6px;
 }
 
-.display img{
+.display img {
     width: 30px;
     cursor: pointer;
 }
 
-.display input{
+.display input {
     border: 0;
     outline: 0;
     font-size: 24px;
 }
 
-.container button img{
+.container button img {
     width: 28px;
     margin-right: 10px;
 }
 
-.container button{
+.container button {
     background: #019f55;
     color: #fff;
     font-size: 22px;
@@ -73,12 +73,17 @@ body {
     cursor: pointer;
 }
 
-.paste-password{
+h2 {
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 50px;
+}
+
+.paste-password {
     border: 0;
     outline: 0;
-    width: 250px;
+    width: 500px;
     font-size: 24px;
-    margin-top: 50px;
     padding: 26px 20px;
     border-radius: 6px;
 }
